@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "rtalpha",
+	"version": "${version}",
+	"name": "RTAlpha-v1",
+	"description": "Let's fly!",
+	"authors": [
+		"SPIKE"
+	],
+	"contact": {
+		"homepage": "https://spikego.github.io/RTClient/",
+		"sources": "https://github.com/RTClient"
+	},
+	"license": "none",
+	"icon": "assets/RTAlpha/icon32x.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			{
+				"value": "cn.rtalpha.RTAlpha",
+				"adapter": "kotlin"
+			}
+		]
+	},
+	"mixins": [
+		"RTAlpha.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.20.4",
+		"java": ">=17",
+		"fabric-api": "*",
+		"fabric-language-kotlin": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
