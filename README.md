@@ -16,3 +16,9 @@ but I'd prefer the community to contribute,
 And I'm sorry, I'm not good at English, so I use Translate, if there is any mistake, please forgive me.*
 
 emm,FastPlace has some issues. see "FastPlace" module annotation
+
+---
+
+## How to build
+
+Download sources use your IDEs,I recommend using the Intellij idea of the present generation
