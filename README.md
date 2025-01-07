@@ -21,4 +21,4 @@ emm,FastPlace has some issues. see "FastPlace" module annotation
 
 ## How to build
 
-Download sources use your IDEs,I recommend using the Intellij idea of the present generation
+Download sources use your IDEs,I recommend using the Intellij idea or Eclipse 
